@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'MobiriseIcons';
-  src:  url('https://drive.google.com/host/12HCeEILH5OYhjHNDCgnTKUj5Kp0Z9udc/?spat4u');
-  src:  url('https://drive.google.com/host/12HCeEILH5OYhjHNDCgnTKUj5Kp0Z9udc/?spat4u#iefix') format('embedded-opentype'),
-    url('https://drive.google.com/host/TdwaA8MMPh1nUHibRUr--TpxQBt8w9Dy/?spat4u') format('truetype'),
-    url('https://drive.google.com/host/1kDyhdm1VjoAfx43Y6GU_SoD7e1kufHLw/?spat4u') format('woff'),
-    url('https://drive.google.com/host/1cihIsd51h6gofCaPHSpiJAxA0ma7GioN/?spat4u#MobiriseIcons') format('svg');
+  src:  url('https://drive.google.com/host/12HCeEILH5OYhjHNDCgnTKUj5Kp0Z9udc?spat4u');
+  src:  url('https://drive.google.com/host/12HCeEILH5OYhjHNDCgnTKUj5Kp0Z9udc?spat4u#iefix') format('embedded-opentype'),
+    url('https://drive.google.com/host/TdwaA8MMPh1nUHibRUr--TpxQBt8w9Dy?spat4u') format('truetype'),
+    url('https://drive.google.com/host/1kDyhdm1VjoAfx43Y6GU_SoD7e1kufHLw?spat4u') format('woff'),
+    url('https://drive.google.com/host/1cihIsd51h6gofCaPHSpiJAxA0ma7GioN?spat4u#MobiriseIcons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
